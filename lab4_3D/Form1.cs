@@ -39,7 +39,7 @@ namespace lab4_3D
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //new comment
         }
 
         private void elementHostEggBox_ChildChanged(object sender, ChildChangedEventArgs e)
